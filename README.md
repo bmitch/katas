@@ -1,5 +1,7 @@
 # Ping Pong Katas
 
+[![Build Status](https://travis-ci.org/bmitch/katas.svg?branch=master)](https://travis-ci.org/bmitch/katas)
+
 ## What is it?
 From http://c2.com/cgi/wiki?PairProgrammingPingPongPattern
 
