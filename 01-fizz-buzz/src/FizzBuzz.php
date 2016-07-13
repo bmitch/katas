@@ -23,11 +23,11 @@ class FizzBuzz
 
     private function isMultipleOfThree($number)
     {
-        // your turn to write some code
+        return ($number % 3 == 0);
     }
 
     private function isMultipleOfFive($number)
     {
-        // your turn to write some code
+        return ($number % 5 == 0);
     }
 }
