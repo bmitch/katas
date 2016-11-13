@@ -9,4 +9,5 @@ before_script:
   - travis_retry composer install --no-interaction --prefer-source --dev
 
 script:
- - vendor/bin/phpspec run
+ - 01-fizz-buzz/vendor/bin/phpspec run
+ - 02-supermarket/vendor/bin/phpspec run
